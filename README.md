@@ -26,3 +26,10 @@ O(log n)    as input grows, it slows down the curve. efficient than linear
     - Queues
 
 ## Algorithms
+
+- Sorting
+    - Selection Sort
+    - Insertion Sort
+    - Bubble Sort
+    - Merge Sort
+    - Quick Sort
