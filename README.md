@@ -12,7 +12,7 @@ Learn collections of data structures and algorithms
 O(1)        algorithm run in `constant` time
 O(n)        cost of algorithm grows `linearly`
 O(n ^ 2)    cost of algorithm grows in `quadratic` time  
-O(log n)    as input grows, it shows down the curve. efficient than linear
+O(log n)    as input grows, it slows down the curve. efficient than linear
 ```
 
 ## Data Structures
