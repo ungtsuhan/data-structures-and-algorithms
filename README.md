@@ -35,3 +35,8 @@ O(log n)    as input grows, it slows down the curve. efficient than linear
     - Bubble Sort
     - Merge Sort
     - Quick Sort
+
+- Search
+    - Binary Search
+    - Breadth First Search (BFS)
+    - Depth First Search (DFS)
