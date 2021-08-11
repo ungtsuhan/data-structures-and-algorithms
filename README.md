@@ -9,9 +9,9 @@ Learn collections of data structures and algorithms
 - to determine an algorithm is scalable or not as input grows large
 
 ```
-O(1)        algorithm run in `constant` time
-O(n)        cost of algorithm grows `linearly`
-O(n ^ 2)    cost of algorithm grows in `quadratic` time  
+O(1)        algorithm run in constant time
+O(n)        cost of algorithm grows linearly
+O(n ^ 2)    cost of algorithm grows in quadratic time  
 O(log n)    as input grows, it slows down the curve. efficient than linear
 ```
 
