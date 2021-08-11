@@ -6,9 +6,7 @@ Continue finding smallest value, and moving it to beginning of the list
 
 ### Performance
 
-slow 
-
-Speed: N ^ 2 Operation
+Slow. O(n ^ 2) Operation
 
 ```py
 def selectionsort(unsorted_list):
